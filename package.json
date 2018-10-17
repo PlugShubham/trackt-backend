@@ -1,7 +1,7 @@
 {
   "name": "trackt-backend",
   "version": "1.0.0",
-  "description": "Transaction tracking app and more",
+  "description": "Transaction tracking app and more...",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
